@@ -7,7 +7,8 @@ script:
 
 after script:
 notifications:
-  recipients:
-	julio.developer10@gmail.com
+  email:
+    recipients:
+      - julio.developer10@gmail.com
 
 
